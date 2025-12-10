@@ -1,0 +1,14 @@
+{
+    "patches": [
+        {
+            "label": "2025-12-10_13-50-22",
+            "content": "@@ -1,248 +1,5 @@\n-@abstractmethod%0Aclass Veiculo:%0A    def __init__(self, id: str, tipo: str):%0A        self.id = id%0A        self.tipo = tipo%0A        %0A%0A%0A%0A%0Aclass Bike:%0A    def __init__(self, id: str):%0A        self.__id = %5B%5D%0A%0A    def calcularValor(self, horaSaida: int):%0A\n+class\n",
+            "lines": "1"
+        },
+        {
+            "label": "2025-12-10_14-07-01",
+            "content": "@abstractmethod\nclass Veiculo:\n    def __init__(self, id: str, tipo: str):\n        self.id = id\n        self.tipo = tipo\n        \n\n\n\n\nclass Bike:\n    def __init__(self, id: str):\n        self.__id = []\n\n    def calcularValor(self, horaSaida: int):\n",
+            "lines": "15"
+        }
+    ]
+}
