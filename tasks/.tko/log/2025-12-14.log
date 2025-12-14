@@ -62,3 +62,33 @@
 2025-12-14 12:19:57, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:100, size:149
 2025-12-14 12:20:03, MOVE, v:1, k:poo@estacionamento, mode:BACK
 2025-12-14 12:21:38, SELF, v:1, k:poo@estacionamento, rate:100, guide:_aula_gravada_em_typescript, alone:10, study:406
+2025-12-14 12:23:53, MOVE, v:1, k:poo@zoo, mode:DOWN
+2025-12-14 12:43:41, SELF, v:1, k:poo@zoo
+2025-12-14 12:43:47, MOVE, v:1, k:poo@zoo, mode:PICK
+2025-12-14 12:43:47, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:100, size:0
+2025-12-14 12:43:48, MOVE, v:1, k:poo@zoo, mode:BACK
+2025-12-14 13:03:29, MOVE, v:1, k:poo@zoo, mode:PICK
+2025-12-14 13:03:29, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:100, size:17
+2025-12-14 13:03:31, MOVE, v:1, k:poo@zoo, mode:BACK
+2025-12-14 14:42:22, MOVE, v:1, k:poo@zoo, mode:PICK
+2025-12-14 14:42:22, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:100
+2025-12-14 14:42:23, MOVE, v:1, k:poo@zoo, mode:BACK
+2025-12-14 14:48:12, MOVE, v:1, k:poo@zoo, mode:PICK
+2025-12-14 14:48:13, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:100
+2025-12-14 14:48:13, MOVE, v:1, k:poo@zoo, mode:BACK
+2025-12-14 15:01:25, MOVE, v:1, k:poo@zoo, mode:PICK
+2025-12-14 15:01:25, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:100
+2025-12-14 15:01:26, MOVE, v:1, k:poo@zoo, mode:BACK
+2025-12-14 15:01:52, MOVE, v:1, k:poo@zoo, mode:PICK
+2025-12-14 15:01:52, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:70
+2025-12-14 15:02:07, MOVE, v:1, k:poo@zoo, mode:BACK
+2025-12-14 15:02:10, MOVE, v:1, k:poo@zoo, mode:PICK
+2025-12-14 15:02:11, EXEC, v:1, k:poo@zoo, mode:FREE
+2025-12-14 15:02:36, MOVE, v:1, k:poo@zoo, mode:BACK
+2025-12-14 15:02:47, MOVE, v:1, k:poo@zoo, mode:PICK
+2025-12-14 15:02:48, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:70
+2025-12-14 15:02:52, MOVE, v:1, k:poo@zoo, mode:BACK
+2025-12-14 15:06:55, MOVE, v:1, k:poo@zoo, mode:PICK
+2025-12-14 15:06:56, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0
+2025-12-14 15:08:33, MOVE, v:1, k:poo@zoo, mode:BACK
+2025-12-14 15:12:13, SELF, v:1, k:poo@zoo, rate:100, human:_, alone:10, study:184
